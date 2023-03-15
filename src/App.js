@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React with Codemithra
+          Learn MERN with Codemithra
         </a>
       </header>
     </div>
